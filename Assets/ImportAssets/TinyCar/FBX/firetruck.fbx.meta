@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: e1196e3fb3c364f45bfd1ee2fabba34c
+timeCreated: 1487722710
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group1
+    100004: pCube16
+    100006: pCube17
+    100008: pCube18
+    100010: pCube19
+    100012: pCube20
+    100014: pCube21
+    100016: pCube22
+    100018: pCube23
+    100020: pCube24
+    100022: pCylinder1
+    100024: polySurface15
+    100026: polySurface16
+    100028: polySurface17
+    100030: polySurface18
+    100032: polySurface25
+    100034: polySurface38
+    100036: polySurface41
+    100038: polySurface41 1
+    100040: polySurface5
+    100042: polySurface7
+    100044: polySurface7 1
+    100046: transform1
+    100048: transform10
+    100050: transform11
+    100052: transform12
+    100054: transform13
+    100056: transform14
+    100058: transform15
+    100060: transform2
+    100062: transform3
+    100064: transform4
+    100066: transform5
+    100068: transform6
+    100070: transform7
+    100072: transform8
+    100074: transform9
+    400000: //RootNode
+    400002: group1
+    400004: pCube16
+    400006: pCube17
+    400008: pCube18
+    400010: pCube19
+    400012: pCube20
+    400014: pCube21
+    400016: pCube22
+    400018: pCube23
+    400020: pCube24
+    400022: pCylinder1
+    400024: polySurface15
+    400026: polySurface16
+    400028: polySurface17
+    400030: polySurface18
+    400032: polySurface25
+    400034: polySurface38
+    400036: polySurface41
+    400038: polySurface41 1
+    400040: polySurface5
+    400042: polySurface7
+    400044: polySurface7 1
+    400046: transform1
+    400048: transform10
+    400050: transform11
+    400052: transform12
+    400054: transform13
+    400056: transform14
+    400058: transform15
+    400060: transform2
+    400062: transform3
+    400064: transform4
+    400066: transform5
+    400068: transform6
+    400070: transform7
+    400072: transform8
+    400074: transform9
+    2300000: pCube24
+    2300002: polySurface15
+    2300004: polySurface16
+    2300006: polySurface17
+    2300008: polySurface18
+    2300010: polySurface41
+    3300000: pCube24
+    3300002: polySurface15
+    3300004: polySurface16
+    3300006: polySurface17
+    3300008: polySurface18
+    3300010: polySurface41
+    4300000: polySurface15
+    4300002: polySurface16
+    4300004: polySurface17
+    4300006: polySurface18
+    4300008: pCube24
+    4300010: polySurface41
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
