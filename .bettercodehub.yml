@@ -1,0 +1,6 @@
+component_depth: 1
+languages:
+- csharp
+
+exclude:
+- ^((?!^\/Assets\/Scripts).)*$

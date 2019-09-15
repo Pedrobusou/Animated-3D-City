@@ -1,0 +1,15 @@
+#Support to scene and prefab merge conflicts: https://docs.unity3d.com/Manual/SmartMerge.html
+[merge]
+tool = unityyamlmerge
+
+[mergetool "unityyamlmerge"]
+trustExitCode = false
+cmd = '<path to UnityYAMLMerge>' merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
+
+#Windows default paths
+#C:\Program Files\Unity\Editor\Data\Tools\UnityYAMLMerge.exe
+#or
+#C:\Program Files (x86)\Unity\Editor\Data\Tools\UnityYAMLMerge.exe
+
+#MacOS default path
+#/Applications/Unity/Unity.app/Contents/Tools/UnityYAMLMerge
