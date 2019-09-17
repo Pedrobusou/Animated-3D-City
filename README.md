@@ -9,3 +9,9 @@ https://docs.unity3d.com/Manual/SmartMerge.html
 
 
 A "cutescene" of a street with sound, cars and helicopter, everything animated. The camera views will change during the duration of the cutescene, showing multiple diferent angles.
+
+![alt text](demoImgs/angle.JPG)
+![alt text](demoImgs/carsAndSky.JPG)
+![alt text](demoImgs/helicopterView.JPG)
+![alt text](demoImgs/helicopterView2.JPG)
+![alt text](demoImgs/topView.JPG)
